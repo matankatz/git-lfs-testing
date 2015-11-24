@@ -3,3 +3,5 @@ bbb.bin filter=lfs diff=lfs merge=lfs -text
 ccc.bin filter=lfs diff=lfs merge=lfs -text
 ddd.bin filter=lfs diff=lfs merge=lfs -text
 eee.bin filter=lfs diff=lfs merge=lfs -text
+fff.bin filter=lfs diff=lfs merge=lfs -text
+ggg.bin filter=lfs diff=lfs merge=lfs -text
